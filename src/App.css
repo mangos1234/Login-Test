@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.password_con{
+  border: 1px solid black;
+  width: fit-content;
+  display: flex;
+  align-items: center;
+  margin-left: 2%;
+  height: 20px;
+  border-radius: 2px;
+}
